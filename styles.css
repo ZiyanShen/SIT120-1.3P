@@ -1,0 +1,80 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	margin: 20px;
+	text-decoration: none;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+/* New style: Project list */
+.project {
+	margin-bottom: 20px;
+	border: 1px solid #ddd;
+	padding: 10px;
+	background-color: #f9f9f9;
+}
+
+/* New style: Project title */
+.project-title {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* New style: Project description */
+.project-description {
+	margin-top: 10px;
+}
+
+/* New style: Project form */
+.project-form {
+	margin-top: 20px;
+}
+
+/* New style: Form label */
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+/* New style: Form input fields */
+input[type="text"],
+input[type="number"] {
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+/* New style: Form button */
+.button {
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: #555;
+}
+th{
+	background-color: #36DC53;
+}
